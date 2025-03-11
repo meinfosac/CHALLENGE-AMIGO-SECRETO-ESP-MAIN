@@ -2,7 +2,8 @@
 
 Una aplicación web simple que permite organizar sorteos de "amigo secreto" de manera fácil y divertida. Perfecta para organizar intercambios de regalos entre amigos, familiares o compañeros de trabajo.
 
-![Amigo Secreto App](https://via.placeholder.com/800x400?text=Amigo+Secreto+App)
+![imagen](https://github.com/user-attachments/assets/f7fd657a-6d35-42bb-b6ae-9274a5e5e64b)
+
 
 ## 📋 Características
 
@@ -11,10 +12,6 @@ Una aplicación web simple que permite organizar sorteos de "amigo secreto" de m
 - **Sorteo aleatorio**: Genera una selección completamente aleatoria entre los participantes.
 - **Visualización clara**: Muestra de forma destacada el resultado del sorteo.
 - **Validación de datos**: Previene errores al validar que no se ingresen campos vacíos.
-
-## 🚀 Demo
-
-Puedes ver una demostración del proyecto [aquí](#) (reemplaza con tu enlace de GitHub Pages o donde hayas desplegado el proyecto).
 
 ## 💻 Tecnologías utilizadas
 
@@ -27,7 +24,7 @@ Puedes ver una demostración del proyecto [aquí](#) (reemplaza con tu enlace de
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/amigo-secreto.git
+   git clone https://github.com/meinfosac/CHALLENGE-AMIGO-SECRETO-ESP-MAIN.git
    ```
 
 2. Navega al directorio del proyecto:
@@ -53,19 +50,13 @@ Puedes ver una demostración del proyecto [aquí](#) (reemplaza con tu enlace de
 - Implementar la funcionalidad para enviar notificaciones por correo electrónico.
 - Añadir animación durante el proceso de sorteo.
 
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
-
 ## 👨‍💻 Autor
 
-- **Tu Nombre** - [Tu usuario de GitHub](https://github.com/TU-USUARIO)
+- **Tu Nombre** - https://github.com/meinfosac
 
 ## 🙏 Agradecimientos
 
-- A [Nombre del Curso/Institución] por la inspiración y enseñanzas.
-- Iconos utilizados en el proyecto.
-- Google Fonts por las tipografías.
+- A ALURA por la inspiración y enseñanzas.
 
 ---
 
