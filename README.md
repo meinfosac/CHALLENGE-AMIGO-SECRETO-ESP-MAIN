@@ -29,7 +29,7 @@ Una aplicación web simple que permite organizar sorteos de "amigo secreto" de m
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd amigo-secreto
+   cd CHALLENGE-AMIGO-SECRETO-ESP-MAIN
    ```
 
 3. Abre el archivo `index.html` en tu navegador o usa una extensión como Live Server en Visual Studio Code.
